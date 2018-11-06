@@ -5,10 +5,10 @@ client.on('ready', () => {
    console.log(`----------------`);
       console.log(`Cyhper Bot Script By : Lemmoo`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : Lemmoo ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`TEXT`,"http://twitch.tv/Lemmoo")
+client.user.setGame(`لوحدي دولههء , ✨ ,`,"http://twitch.tv/Lemmoo")
 client.user.setStatus("dnd")
 });
 
